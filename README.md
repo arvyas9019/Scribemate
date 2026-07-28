@@ -47,13 +47,15 @@ unless you choose a cloud model.
 
 ## A tour
 
-<!-- Replace with real screenshots/GIFs before publishing -->
-| | |
+<sub>Illustrative mockups in Scribemate's real color/type system — not live screenshots.</sub>
+
+| Notes, live-formatted | Auto-generated family tree |
 |---|---|
-| **Notes, live-formatted** | *(screenshot)* |
-| **Auto-generated family tree** | *(screenshot)* |
-| **Interactive map with custom regions** | *(screenshot)* |
-| **Manuscript editor with reference pane** | *(screenshot)* |
+| ![Notes editor](./docs/notes-editor.png) | ![Family tree](./docs/family-tree.png) |
+
+| Interactive map with custom regions | Manuscript editor with reference pane |
+|---|---|
+| ![Map view](./docs/map-view.png) | ![Manuscript editor](./docs/manuscript-editor.png) |
 
 ## Status
 
