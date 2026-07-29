@@ -1,3 +1,7 @@
 # Discussion post drafts — content gets pasted straight into GitHub Discussions,
 # not tracked in the repo itself.
 docs/discussions/
+
+# Release notes drafts — content gets pasted straight into the GitHub Release
+# description, not tracked in the repo itself.
+docs/release-notes/

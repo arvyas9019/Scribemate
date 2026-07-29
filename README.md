@@ -47,8 +47,6 @@ unless you choose a cloud model.
 
 ## A tour
 
-<sub>Illustrative mockups in Scribemate's real color/type system — not live screenshots.</sub>
-
 | Notes, live-formatted | Auto-generated family tree |
 |---|---|
 | ![Notes editor](./docs/notes-editor.png) | ![Family tree](./docs/family-tree.png) |
