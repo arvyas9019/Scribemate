@@ -65,7 +65,22 @@ Word/PDF export. The AI assistant and its local retrieval index are working end-
 hardening continue based on real use — see the roadmap in the pinned discussion/issues for what's
 next.
 
-**Download / early access:** not yet public — watch this repo or reach out below.
+## Download
+
+**[Latest release →](../../releases/latest)**
+
+Scribemate is currently in **beta** (`v0.1.0-beta.1`), Windows only. Two installer formats are
+provided — either works, NSIS is the smaller download:
+
+- `Scribemate_0.1.0_x64-setup.exe` (NSIS)
+- `Scribemate_0.1.0_x64_en-US.msi` (MSI)
+
+The installer isn't code-signed yet, so Windows SmartScreen may show a "Windows protected your PC"
+prompt — click **More info → Run anyway** to proceed. This is expected for an early, unsigned
+indie build, not a sign of anything wrong.
+
+Found a bug or have feedback? Use the in-app **Send feedback** link (About panel) or open an
+[issue](../../issues) here.
 
 ## Support the project
 
