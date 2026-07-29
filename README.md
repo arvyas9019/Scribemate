@@ -97,6 +97,11 @@ sponsoring keeps it moving:
 Questions, feedback, or "I write fantasy and I need this yesterday" — open an
 [issue](../../issues) or start a [discussion](../../discussions) on this repo.
 
+## License
+
+Scribemate is closed-source freeware — free to use, not to redistribute or resell. Your worlds and
+notes are entirely yours, always. Full terms: **[LICENSE.md](./LICENSE.md)**.
+
 ---
 
 <div align="center">
