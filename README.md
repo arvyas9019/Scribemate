@@ -10,6 +10,7 @@
 Your notes, your family trees, your maps, and your manuscript — in one app, on your own disk.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/arvyas9019)
+[![Wiki](https://img.shields.io/badge/docs-Wiki-4a45c2?logo=bookstack&logoColor=white)](../../wiki)
 
 </div>
 
@@ -79,6 +80,10 @@ indie build, not a sign of anything wrong.
 
 Found a bug or have feedback? Use the in-app **Send feedback** link (About panel) or open an
 [issue](../../issues) here.
+
+**New to Scribemate?** The **[Wiki](../../wiki)** has a full step-by-step guide — setup, and how
+to use every feature, from properties and wiki-links to the family tree, maps, manuscript editor,
+and AI assistant.
 
 ## Support the project
 

@@ -5,3 +5,7 @@ docs/discussions/
 # Release notes drafts — content gets pasted straight into the GitHub Release
 # description, not tracked in the repo itself.
 docs/release-notes/
+
+# Wiki page drafts — pushed into the separate scribemate.wiki.git repo,
+# not tracked in the main repo itself.
+docs/wiki/
