@@ -9,8 +9,9 @@
 
 Your notes, your family trees, your maps, and your manuscript — in one app, on your own disk.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/your_kofi_username)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arvyas)
 [![Wiki](https://img.shields.io/badge/docs-Wiki-4a45c2?logo=bookstack&logoColor=white)](../../wiki)
+
 
 </div>
 
