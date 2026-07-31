@@ -9,3 +9,7 @@ docs/release-notes/
 # Wiki page drafts — pushed into the separate scribemate.wiki.git repo,
 # not tracked in the main repo itself.
 docs/wiki/
+
+# Forum/launch post drafts — content gets pasted straight into external sites
+# (itch.io, RoyalRoad, Reddit, etc.), not tracked in the repo itself.
+docs/forum-posts/
